@@ -24,7 +24,7 @@ A complete demonstration video showcases the entire functionality of the system 
 
 <div align="center">
 
-  <video src="assets/Project_Walkthrough.mp4" controls width="750">
+  <video src="assets1/Project_Walkthrough.mp4" controls width="750">
       Your browser does not support the video tag.
   </video>
 
