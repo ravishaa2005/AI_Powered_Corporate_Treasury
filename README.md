@@ -132,6 +132,9 @@ This will open a Streamlit dashboard in your browser, where you can:
 - Advanced visualization dashboards with time-series comparison.
 - Deployment on cloud platforms for enterprise-scale access.
 
+### Snapshots
+https://github.com/ravishaa2005/AI_Powered_Corporate_Treasury/blob/main/assets1/fileUpload
+
 ### Contributors
 - Ravisha Arora
 - Drishta Grover
