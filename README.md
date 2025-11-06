@@ -132,6 +132,21 @@ This will open a Streamlit dashboard in your browser, where you can:
 - Clustering Method: Agglomerative Clustering (Average Linkage, 3 clusters)
 - Output: Predicts next-quarter risk level and visualizes clusters interactively.
 
+## App Screenshots
+
+| File Upload | Column Mapping 1 | Column Mapping 2 |
+|:-------------:|:-----------:|:----------:|
+| ![Landing](assets1/fileUpload.png) | ![Login](assets1/columnMapping1.png) | ![Home](assets1/columnMapping2.png) |
+
+| Column Mapping 3 | Columns Preview | Score Calculation |
+|:----------:|:----------------:|:------------:|
+| ![Add Notes](assets1/columnMapping3.png) | ![View/Edit](assets1/columnPreview.png) | ![Light Mode](assets1/scoreCalculation.png) |
+
+| Visualization |
+|:----------:|
+| ![Dashboard](assets1/visualization.png) |
+
+
 ### Future Enhancements
 - Integration with real-time financial APIs for live data analysis.
 - Addition of automated alert systems for high-risk companies.
