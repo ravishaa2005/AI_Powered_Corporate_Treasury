@@ -20,19 +20,10 @@ This system is trained on a dataset of **231 Indian companies**, integrating bot
 ---
 ## Walkthrough – Complete System Demonstration
 
-A complete demonstration video showcases the entire functionality of the system —
-from uploading data to generating predicted risk score and exporting results.
+Click below to watch the walkthrough video:
 
-<div align="center">
+[![Watch Video](https://img.shields.io/badge/▶️-Play%20Walkthrough%20Video-red?style=for-the-badge)](https://drive.google.com/file/d/1hPDtlKHEzAd8kEEn-59SQOZHbJo8ausK/view?usp=sharing)
 
-  <iframe 
-      src="https://drive.google.com/file/d/1hPDtlKHEzAd8kEEn-59SQOZHbJo8ausK/preview"
-      width="750"
-      height="420"
-      allow="autoplay"
-  ></iframe>
-
-</div>
 
 
 ---
