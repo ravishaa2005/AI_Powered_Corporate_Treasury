@@ -25,13 +25,12 @@ from uploading data to generating predicted risk score and exporting results.
 
 <div align="center">
 
-  <video controls width="750">
-    <source src="https://raw.githubusercontent.com/ravishaa2005/AI_Powered_Corporate_Treasury/main/assets1/Project_Walkthrough.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-
-  <br/>
-   <a href="https://raw.githubusercontent.com/ravishaa2005/AI_Powered_Corporate_Treasury/main/assets1/Project_Walkthrough.mp4">Click here to view video in new tab</a>
+  <iframe 
+      src="https://drive.google.com/file/d/1hPDtlKHEzAd8kEEn-59SQOZHbJo8ausK/preview"
+      width="750"
+      height="420"
+      allow="autoplay"
+  ></iframe>
 
 </div>
 
