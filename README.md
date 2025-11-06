@@ -108,7 +108,7 @@ Ensure the following tools are installed on your system:
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/AI_Powered_Corporate_Treasury.git
+git clone https://github.com/ravishaa2005/AI_Powered_Corporate_Treasury.git
 cd AI_Powered_Corporate_Treasury
 
 # Create and activate virtual environment
@@ -138,7 +138,7 @@ This will open a Streamlit dashboard in your browser, where you can:
 - Clustering Method: Agglomerative Clustering (Average Linkage, 3 clusters)
 - Output: Predicts next-quarter risk level and visualizes clusters interactively.
 
-## App Screenshots
+### App Screenshots
 
 | File Upload | Column Mapping 1 | Column Mapping 2 |
 |:-------------:|:-----------:|:----------:|
@@ -159,8 +159,6 @@ This will open a Streamlit dashboard in your browser, where you can:
 - Advanced visualization dashboards with time-series comparison.
 - Deployment on cloud platforms for enterprise-scale access.
 
-### Snapshots
-https://github.com/ravishaa2005/AI_Powered_Corporate_Treasury/blob/main/assets1/fileUpload
 
 ### Contributors
 - Ravisha Arora
