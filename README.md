@@ -1,4 +1,4 @@
-# 🤖 AI-Powered Corporate Treasury Intelligence and Risk Prediction System  
+# AI-Powered Corporate Treasury Intelligence and Risk Prediction System  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -10,7 +10,7 @@
 
 ---
 
-## 📘 Overview  
+## Overview  
 
 **AI-Powered Corporate Treasury** is an AI-driven financial analytics system built using **Python** and **Machine Learning** to evaluate corporate performance and predict financial risk.  
 It employs a **Bi-LSTM model** to compute various key performance metrics like **Risk Score, Profitability Score, Growth Score, Sector Score**, and **Overall Score**, helping companies and investors make data-backed financial decisions.  
@@ -18,8 +18,14 @@ It employs a **Bi-LSTM model** to compute various key performance metrics like *
 This system is trained on a dataset of **231 Indian companies**, integrating both **financial** and **macroeconomic indicators** to generate accurate forecasts and risk assessments.  
 
 ---
+## Walkthrough - Complete System Demonstartion
 
-## ⚙️ Core Features  
+A complete demonstration video showcases the entire functionality of the system — from uploading data to generating predicted risk score and exporting results.
+
+(assets1/Project_Walkthrough.mp4)
+
+---
+## Core Features  
 
 - **Hybrid ML Framework:** Uses Bi-LSTM for score prediction and Agglomerative Clustering for risk segmentation.  
 - **Comprehensive Scoring System:** Calculates Risk, Profitability, Growth, Sector, and Overall Scores for companies.  
@@ -30,7 +36,7 @@ This system is trained on a dataset of **231 Indian companies**, integrating bot
 
 ---
 
-## 🧩 Dataset Details  
+## Dataset Details  
 
 The dataset includes **231 Indian companies** with the following features:  
 
@@ -56,7 +62,7 @@ The dataset includes **231 Indian companies** with the following features:
 
 ---
 
-## 🧠 Model Architecture  
+## Model Architecture  
 
 - **Bi-LSTM Model:** Captures sequential dependencies in financial data, improving prediction accuracy.  
 - **Agglomerative Clustering:** Groups companies into 3 clusters (Low, Medium, High Risk) for the next quarter.  
@@ -64,7 +70,7 @@ The dataset includes **231 Indian companies** with the following features:
 
 ---
 
-## 🖥️ Frontend Structure  
+## Frontend Structure  
 
 The **frontend** of the project is built using **Streamlit** and includes the following main files:  
 
@@ -76,9 +82,9 @@ The **frontend** of the project is built using **Streamlit** and includes the fo
 
 ---
 
-## ⚙️ Setup & Configuration  
+## Setup & Configuration  
 
-### 🧾 Prerequisites  
+### Prerequisites  
 Ensure the following tools are installed on your system:  
 - Python 3.9 or above  
 - pip (Python package manager)  
@@ -86,7 +92,7 @@ Ensure the following tools are installed on your system:
 
 ---
 
-### 🛠 Installation Steps  
+### Installation Steps  
 
 ```bash
 # Clone the repository
@@ -115,18 +121,18 @@ This will open a Streamlit dashboard in your browser, where you can:
 - Visualize risk clusters and trends with interactive Plotly charts
 - Forecast the next-quarter risk level for any company
 
-### 📊 Results
+### Results
 - Best Model: Bi-LSTM (outperformed LSTM, XGBoost, LightGBM, and Random Forest)
 - Clustering Method: Agglomerative Clustering (Average Linkage, 3 clusters)
 - Output: Predicts next-quarter risk level and visualizes clusters interactively.
 
-### 🚀 Future Enhancements
+### Future Enhancements
 - Integration with real-time financial APIs for live data analysis.
 - Addition of automated alert systems for high-risk companies.
 - Advanced visualization dashboards with time-series comparison.
 - Deployment on cloud platforms for enterprise-scale access.
 
-### 👩‍💻 Contributors
+### Contributors
 - Ravisha Arora
 - Drishta Grover
 - Nikhil Khandelwal
