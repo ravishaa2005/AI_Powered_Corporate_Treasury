@@ -22,7 +22,13 @@ This system is trained on a dataset of **231 Indian companies**, integrating bot
 
 A complete demonstration video showcases the entire functionality of the system — from uploading data to generating predicted risk score and exporting results.
 
-(assets1/Project_Walkthrough.mp4)
+<div align="center">
+
+  <video src="assets/Project_Walkthrough.mp4" controls width="750">
+      Your browser does not support the video tag.
+  </video>
+
+</div>
 
 ---
 ## Core Features  
