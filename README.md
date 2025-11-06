@@ -22,8 +22,7 @@ This system is trained on a dataset of **231 Indian companies**, integrating bot
 
 Click below to watch the walkthrough video:
 
-[![Watch Video](https://img.shields.io/badge/▶️-Play%20Walkthrough%20Video-red?style=for-the-badge)](https://drive.google.com/file/d/1hPDtlKHEzAd8kEEn-59SQOZHbJo8ausK/view?usp=sharing)
-
+[![Watch Video](https://img.shields.io/badge/▶️-Play%20Walkthrough%20Video-6A5ACD?style=for-the-badge&labelColor=1E90FF)](https://drive.google.com/file/d/1hPDtlKHEzAd8kEEn-59SQOZHbJo8ausK/view?usp=sharing)
 
 
 ---
