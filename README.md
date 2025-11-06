@@ -18,17 +18,23 @@ It employs a **Bi-LSTM model** to compute various key performance metrics like *
 This system is trained on a dataset of **231 Indian companies**, integrating both **financial** and **macroeconomic indicators** to generate accurate forecasts and risk assessments.  
 
 ---
-## Walkthrough - Complete System Demonstartion
+## Walkthrough – Complete System Demonstration
 
-A complete demonstration video showcases the entire functionality of the system — from uploading data to generating predicted risk score and exporting results.
+A complete demonstration video showcases the entire functionality of the system —
+from uploading data to generating predicted risk score and exporting results.
 
 <div align="center">
 
-  <video src="assets1/Project_Walkthrough.mp4" controls width="750">
-      Your browser does not support the video tag.
+  <video controls width="750">
+    <source src="https://raw.githubusercontent.com/ravishaa2005/AI_Powered_Corporate_Treasury/main/assets1/Project_Walkthrough.mp4" type="video/mp4">
+    Your browser does not support the video tag.
   </video>
 
+  <br/>
+   <a href="https://raw.githubusercontent.com/ravishaa2005/AI_Powered_Corporate_Treasury/main/assets1/Project_Walkthrough.mp4">Click here to view video in new tab</a>
+
 </div>
+
 
 ---
 ## Core Features  
